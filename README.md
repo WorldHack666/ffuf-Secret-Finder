@@ -80,40 +80,9 @@ Features available in the GUI:
 
 ## Screenshots
 
-Place your screenshots in `screenshots/` and name them as follows (these paths are referenced below):
+<img width="1523" height="910" alt="image" src="https://github.com/user-attachments/assets/cf6a547d-3837-461d-9c75-418bd8341b8e" />
 
-- `screenshots/cli.png` — screenshot of the CLI script running (menu or streaming output)
-- `screenshots/gui.png` — screenshot of the GUI app while scanning
-
-To take screenshots (examples):
-
-- Linux (using `scrot`):
-  ```bash
-  scrot screenshots/cli.png
-  scrot screenshots/gui.png
-  ```
-
-- macOS (built-in):
-  - Press `Cmd+Shift+4` and select area; files will appear on your Desktop — move them into `screenshots/` and rename.
-
-- Windows (built-in Snipping Tool or `Win+Shift+S`):
-  - Save the images and move them into `screenshots/`.
-
-Add the images to the repo in the `screenshots/` folder and then they will appear in this README.
-
----
-
-## README — with embedded images
-
-Below are the Markdown image links you can use (they rely on the `screenshots/` folder):
-
-```md
-![CLI run_ffuf menu / streaming output](screenshots/cli.png)
-
-![GUI run_ffuf screenshot](screenshots/gui.png)
-```
-
-When the images are present, GitHub/GitLab will render them in this README.
+<img width="1016" height="752" alt="image" src="https://github.com/user-attachments/assets/ee5486ac-86f9-4b3f-8a54-585eb931a697" />
 
 ---
 
