@@ -1,0 +1,1 @@
+# ffuf-Secret-Finder
